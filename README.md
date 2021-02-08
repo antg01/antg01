@@ -10,6 +10,7 @@ You know what? Stay awwwesome.
 ![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FFD700)
 ![](https://img.shields.io/badge/code-React-informational?style=flat&logo=react&logoColor=white&color=FFD700)
 ![](https://img.shields.io/badge/code-NodeJs-informational?style=flat&logo=node.js&logoColor=white&color=FFD700)
+![](https://img.shields.io/badge/code-ExpressJs-informational?style=flat&logo=express&logoColor=white&color=FFD700)
 ![](https://img.shields.io/badge/code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=FFD700)
 ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=DC143C)
 ![](https://img.shields.io/badge/Design-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=DC143C)
