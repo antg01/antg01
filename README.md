@@ -3,7 +3,7 @@
 # 👋  Hello You ! I'm Anto 👽
 You know what? Stay awwwesome.
 
-Portfolio comming soon !
+Here's my Portfolio => https://www.antoinege.com !
 
 
 ![](https://img.shields.io/badge/shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
