@@ -16,6 +16,7 @@ Here's my Portfolio => https://www.antoinege.com !
 ![](https://img.shields.io/badge/code-ExpressJs-informational?style=flat&logo=express&logoColor=white&color=FFD700)
 ![](https://img.shields.io/badge/code-NestJs-informational?style=flat&logo=nest&logoColor=white&color=FFD700)
 ![](https://img.shields.io/badge/code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=FFD700)
+![](https://img.shields.io/badge/code-Mongo-informational?style=flat&logo=mongoDB&logoColor=white&color=FFD700)
 ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=DC143C)
 ![](https://img.shields.io/badge/Design-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=DC143C)
 ![](https://img.shields.io/badge/FREE-CREATIVITY-informational?style=flat&logo=github&logoColor=white&color=8A2BE2)
