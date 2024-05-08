@@ -11,7 +11,7 @@ Here's my Portfolio => https://www.antoinege.com !
 ![](https://img.shields.io/badge/style-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=FF8C00)
 ![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FFD700)
 ![](https://img.shields.io/badge/code-React-informational?style=flat&logo=react&logoColor=white&color=FFD700)
-![](https://img.shields.io/badge/code-Angular-informational?style=flat&logo=angular&logoColor=white&color=FFD700)
+![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&logoColor=white&color=FFD700)
 ![](https://img.shields.io/badge/code-NodeJs-informational?style=flat&logo=node.js&logoColor=white&color=FFD700)
 ![](https://img.shields.io/badge/code-ExpressJs-informational?style=flat&logo=express&logoColor=white&color=FFD700)
 ![](https://img.shields.io/badge/code-NestJs-informational?style=flat&logo=nest&logoColor=white&color=FFD700)
